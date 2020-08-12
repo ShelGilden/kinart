@@ -40,6 +40,91 @@ code {
   background-color: khaki;
 }
 
+/* intro */
+.PictureFace {
+  border: 7px solid gold;
+  border-radius: 25px;
+  padding: 5%;
+  margin: 10%;
+  margin-top: 0%;
+  color:orange;
+  background-color: khaki;
+}
+
+/* .Picture {
+  display: inline-block;
+  padding: 5%;
+  min-width: 240px;
+} */
+
+.PictureContent{
+  display:inline-block;
+  border: 4px solid gold;
+  border-radius: 25px;
+  color:orange;
+  background-color: khaki;
+  padding: 5%;
+  font-size: 2em;
+}
+
+/* product */
+.ProductPage {
+  border: 7px solid gold;
+  border-radius: 25px;
+  padding: 5%;
+  margin: 10%;
+  margin-top: 0%;
+  color:orange;
+  background-color: khaki;
+}
+
+.ProductFace {
+  border: 7px solid gold;
+  border-radius: 25px;
+  padding: 5%;
+  margin: 10%;
+  margin-top: 0%;
+  color:orange;
+  background-color: khaki;
+}
+
+.ProductPicture {
+  display: inline-block;
+  padding: 5%;
+  min-width: 240px;
+  border-radius: 25px;
+}
+
+.Picture {
+  /* display: inline-block;
+  padding: 5%;
+  min-width: 240px; */
+  border-radius: 25px;
+}
+
+.ProductContent{
+  display:inline-block;
+  border: 4px solid gold;
+  border-radius: 25px;
+  color:orange;
+  background-color: khaki;
+  padding: 5%;
+  font-size: 2em;
+  margin:2%;
+}
+
+.ProductButton {
+  font-size:1.3em;
+  border: 4px solid gold;
+  border-radius: 25px;
+  padding: 3%;
+  color:orange;
+  background-color: khaki;
+  display:inline;
+  margin:5%;
+  margin-top:0%; 
+  vertical-align: top;
+}
 
 /* Color 	HTML / CSS
     Color Name 	Hex Code
