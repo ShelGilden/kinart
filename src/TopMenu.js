@@ -14,7 +14,7 @@ class TopMenu extends React.Component {
   render(){
       return (
           <div>
-              <Router basename={window.location.pathname || ''}>
+              <Router>
                 <div>
                   <ul>
                     <li className="menu">
